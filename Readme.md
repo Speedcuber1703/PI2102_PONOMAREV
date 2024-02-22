@@ -1,5 +1,5 @@
 ## ПИ2102 Пономарёв Алексей Викторович
 
-![Гит](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw2YIMS77vURPwdFkwiQHAtg&ust=1708673292126000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi_1Ze2voQDFQAAAAAdAAAAABAE)
+![Гит](https://git-scm.com/images/logos/2color-lightbg@2x.png)
 
 Это вторая лабораторная работа
